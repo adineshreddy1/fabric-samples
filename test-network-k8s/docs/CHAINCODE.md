@@ -1,4 +1,5 @@
 # Working with Chaincode 
+#local setup
 
 In this guide we will launch the Asset Transfer Basic chaincode "as a service" on the Kubernetes test network.
 In addition, we will demonstrate how to connect the test network to a chaincode process running on your local 
